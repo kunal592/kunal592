@@ -1,8 +1,3 @@
-Absolutely 😎
-Here is your **full upgraded neon + glass GitHub profile README** again, clean and ready to paste.
-
----
-
 # 🌌 Kunal Daharwal – Neon GitHub Profile
 
 ## 1) `README.md`
@@ -128,8 +123,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ````
 
----
-
-Your profile will now look **neon, animated, and elite** ⚡
-
-If you want a **3D banner, visitor counter, or project cards**, just say **v3** 😈
