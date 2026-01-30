@@ -1,6 +1,3 @@
-# 🌌 Kunal Daharwal – Neon GitHub Profile
-
-## 1) `README.md`
 
 ````md
 <h1 align="center">Hi 👋, I'm Kunal Daharwal</h1>
