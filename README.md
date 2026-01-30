@@ -1,5 +1,5 @@
 
-````md
+
 <h1 align="center">Hi 👋, I'm Kunal Daharwal</h1>
 <h3 align="center">Next.js | NestJS | MERN | Machine Learning Engineer</h3>
 
@@ -11,21 +11,19 @@
   <img src="https://raw.githubusercontent.com/kunal592/kunal592/output/github-contribution-grid-snake-dark.svg">
 </p>
 
----
 
-## 🧠 About Me (Glass Mode)
 
-```diff
+
+
+
 + 🚀 Tech Focus: Next.js, NestJS, MERN
 + 🧩 Problem Solving: DSA in Java
 + 🏗 System Design & DBMS
 + ☁ DevOps: Docker, CI/CD, Cloud
 + 🤖 ML Engineer (Model → API → UI)
-````
 
----
 
-## ⚡ Tech Stack (Neon Grid)
+
 
 ### Frontend
 
@@ -48,16 +46,13 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
 
----
-
-## 📊 GitHub Stats (Neon Cards)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal592&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal592&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
+
 
 ## 🔥 Top Languages
 
@@ -82,41 +77,5 @@
 
 💎 *“Build clean. Scale fast. Ship often.”*
 
-````
 
----
-
-## 2) Animated Snake Setup
-
-Create this file:
-
-**`.github/workflows/snake.yml`**
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: kunal592
-          outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-````
 
